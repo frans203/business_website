@@ -654,6 +654,12 @@ body {
   }
 }
 @media (max-width: 1400px) {
+  .section-2 {
+    height: 120vh;
+  }
+  .video-wrapper {
+    height: 40rem;
+  }
   .section-heading {
     font-size: 8rem;
   }
